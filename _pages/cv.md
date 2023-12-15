@@ -22,7 +22,7 @@ Work experience
   * Duties included: Data Collection and Analysis
   * Supervisor: Professor Wang Ai Zeng
 
-  ======
+======
 * Summer 2023: Research Intern
   * HongKong University
   * Duties included: Programme Develop
